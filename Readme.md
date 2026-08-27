@@ -1,0 +1,1 @@
+Livros, documentos, exercicios, fichas e outros materiais de estudo utilizados no meu precurso dentro e fora da escola.
