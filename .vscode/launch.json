@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Utilizador/Desktop/Documentação/Exercicios/Etc/C",
-      "program": "c:/Users/Utilizador/Desktop/Documentação/Exercicios/Etc/C/build/Debug/outDebug",
+      "cwd": "c:/Users/Utilizador/Desktop/Documentação",
+      "program": "c:/Users/Utilizador/Desktop/Documentação/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
